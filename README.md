@@ -21,6 +21,7 @@ existing `~/.tmux.conf` first)
 ```
 $ cd
 $ git clone https://github.com/jaysurplus/.tmux.git
+$ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 $ ln -s -f .tmux/.tmux.conf
 $ cp .tmux/.tmux.conf.local .
 ```
